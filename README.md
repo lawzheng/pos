@@ -1,6 +1,6 @@
-# awesomepos
+# pos收银系统
 
-> A Vue.js project
+>只实现了首页结账
 
 ## Build Setup
 
